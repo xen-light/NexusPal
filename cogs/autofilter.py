@@ -28,7 +28,7 @@ class AutoFilter(commands.Cog):
             querystring = {"text": message.content}
 
             headers = {
-                "X-RapidAPI-Key": "b31fe9e987mshb4ea52e4b0c67eep11c29ajsn4fb94b55d9ad",
+                "X-RapidAPI-Key": "key",
                 "X-RapidAPI-Host": "community-purgomalum.p.rapidapi.com"
             }
 
