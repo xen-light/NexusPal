@@ -46,4 +46,4 @@ We welcome contributions from the community!
 
 ## License
 
-This project is licensed under the [MIT License](link_to_license).
+This project is licensed under the [MIT License](https://github.com/xen-light/NexusPal/blob/master/LICENSE).
