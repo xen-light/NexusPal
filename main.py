@@ -44,7 +44,7 @@ async def on_command_error(ctx, error):
                               
 
 # Replace 'YOUR_TOKEN_HERE' with your actual bot token
-BOT_TOKEN = 'MTEyNjIyMTIwOTQwNzg2MDkyNg.GFzMjL.TNMxBgt1AfLd4GSqnXr8qxfbldrCI2_oLBKHzU'
+BOT_TOKEN = 'token'
 
 # Create the bot instance with the command prefix and all intents
 intents = discord.Intents.all()
