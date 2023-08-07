@@ -17,7 +17,7 @@
 
 ## Installation
 
-1. Invite the bot to your server using the following link: [Invite Bot](https://discord.com/api/oauth2/authorize?client_id=1126221209407860926&permissions=1099645971574&scope=bot)
+1. Invite the bot to your server using the following link: [Invite Bot](https://dsc.gg/nexuspal)
 2. Follow the on-screen instructions to grant necessary permissions.
 3. The bot will join your server and you're all set!
 
@@ -38,7 +38,7 @@
 
 ## Support and Feedback
 
-For any questions, issues, or feedback, please join our [Support Server](https://dsc.gg/nexuspal) and let us know how we can assist you.
+For any questions, issues, or feedback, please join our [Support Server](https://discord.gg/jMewaB7Q9z) and let us know how we can assist you.
 
 ## Contributing
 
