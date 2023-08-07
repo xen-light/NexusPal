@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 import requests
 
-API_KEY = 'RqvQ0vVzqqlKgXCHVDa5iQ==ks9jSvGHeXt7pRT2'
+API_KEY = 'key'
 API_URL = 'https://api.api-ninjas.com/v1/recipe'
 
 def format_ingredients(ingredients):
