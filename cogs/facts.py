@@ -6,7 +6,7 @@ class Fun(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
         self.api_url = 'https://api.api-ninjas.com/v1/facts?limit=1'
-        self.headers = {'X-Api-Key': 'RqvQ0vVzqqlKgXCHVDa5iQ==ks9jSvGHeXt7pRT2'}
+        self.headers = {'X-Api-Key': 'key'}
 
     @commands.command(description="Shows a random fact.")
     async def fact(self, ctx):
